@@ -35,6 +35,6 @@ As part of our commitment to the DevOps community, we actively contribute to ope
 
 We’re always available for discussions, consultations, and collaborations. If you have any questions or would like to discuss how we can help your business, feel free to reach out to us.
 
-- 🌐 [Website](#)
-- 💼 [LinkedIn](#)
-- ✉️ [Email](#)
+- 🌐 [Website](https://alterloop.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/company/alterloop/)
+- ✉️ [Email](info@javanile.org)
