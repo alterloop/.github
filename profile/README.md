@@ -9,8 +9,6 @@ We offer tailored solutions for:
 - **DevOps Transformation**: We assist organizations in adopting a DevOps culture, reducing development time, improving software quality, and automating key processes.
 - **CI/CD Pipeline Setup**: We design, build, and optimize CI/CD pipelines using modern platforms like Jenkins, GitLab CI, GitHub Actions, CircleCI, and more.
 - **Infrastructure as Code (IaC)**: We automate infrastructure management using tools like Terraform, Ansible, and Kubernetes, ensuring scalability and repeatability.
-- **Cloud Consulting**: We provide consulting on cloud-native architectures (AWS, GCP, Azure) and containerization and orchestration solutions.
-- **Security & Compliance**: We integrate security practices into the software development lifecycle (DevSecOps), ensuring compliance and protecting applications.
 
 ## 🛠️ Technologies
 
@@ -18,9 +16,7 @@ We work with a wide range of technologies and tools, including:
 
 - **Container & Orchestration**: Docker, Kubernetes, OpenShift
 - **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI, CircleCI, Travis CI
-- **Cloud Platforms**: AWS, Google Cloud, Microsoft Azure
 - **IaC & Automation**: Terraform, Ansible, Helm
-- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack
 - **Version Control**: Git, GitHub, GitLab, Bitbucket
 
 ## 🚀 Our Mission
