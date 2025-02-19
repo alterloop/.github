@@ -33,4 +33,4 @@ We’re always available for discussions, consultations, and collaborations. If 
 
 - 🌐 [Website](https://alterloop.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/company/alterloop/)
-- ✉️ [Email](info@javanile.org)
+- ✉️ [Email](mailto:info@javanile.org)
