@@ -1,6 +1,6 @@
 # Welcome to **Alterloop**
 
-We are a consulting company specializing in **DevOps** and **Continuous Integration/Continuous Delivery (CI/CD)**, helping businesses automate, optimize, and modernize their software development processes.
+We are a consulting brand specializing in **DevOps** and **Continuous Integration/Continuous Delivery (CI/CD)**, helping businesses automate, optimize, and modernize their software development processes.
 
 ## 🌟 What We Do
 
